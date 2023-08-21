@@ -1,5 +1,5 @@
 name: Mongo Github actions
-run-name: IP Checker
+run-name: IP Checker v2
 on:
   workflow_dispatch:
   push:
